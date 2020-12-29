@@ -1,6 +1,6 @@
 # Wine_Quality_Testing
 
-• Minor Project done as a part of Data Science Internship at Verzeo.
+• It is a part of Data Science Internship at Verzeo.
 • Took the Red Wine Quality data set from Kaggle and worked on it.
 • Handled missing values with suitable replacements for better outcomes.
 • Did exploratory data analysis on each feature of the data set.
