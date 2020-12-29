@@ -7,7 +7,7 @@
 • Predicted on test set by using KNN Classification, Logistic Regression algorithms.
 • Chose attributes to get highest accuracy after analysis with various combinations.
 
-###Minor Project Instructions
+# Minor Project Instructions
 
 Red Wine Quality Dataset from kagglehttps://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009
 
